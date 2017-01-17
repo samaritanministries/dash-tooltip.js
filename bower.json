@@ -1,0 +1,23 @@
+{
+  "name": "dash-tooltip.js",
+  "version": "0.0.1",
+  "main": "dist/dash-tooltip.js",
+
+  "homepage": "http://developers.samaritanministries.org/",
+  "description": "A tooltip component for the Dash Framework",
+
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samaritanministries/dash-tooltip.js.git"
+  },
+
+  "dependencies": {
+    "jquery": ">=2",
+    "dashing": "~1.1.1"
+  },
+
+  "devDependencies": {
+    "jasmine-jquery": "~2.1.0"
+  }
+}
